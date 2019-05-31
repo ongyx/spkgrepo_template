@@ -34,9 +34,7 @@ The credits start from here.
 ——————————
 ```
 Seperate entries for each code author with a line:
-```
-——————————
-```
+`——————————`
 # NB
 This repo is under the Unilicense.
 Enjoy your coding experience!
