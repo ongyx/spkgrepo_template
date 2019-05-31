@@ -21,7 +21,7 @@ package author correctly in the placeholder CREDITS
 file in either the OpenTerm or Libterm folder.
 
 The formatting of the CREDITS file is as follows:
-‘’’
+```
 CREDITS
 This is a credits file for packages stored in this repo.
 The credits are arranged like so:
@@ -32,11 +32,11 @@ License
 ——————————
 The credits start from here.
 ——————————
-‘’’
+```
 Seperate entries for each code author with a line:
-‘’’
+```
 ——————————
-‘’’
+```
 # NB
 This repo is under the Unilicense.
 Enjoy your coding experience!
