@@ -43,5 +43,5 @@ The credits start from here.
 Seperate entries for each code author with a line:
 `——————————`
 # NB
-This repo is under the Unilicense.
+This repo is under the Unlicense.
 Enjoy your coding experience!
